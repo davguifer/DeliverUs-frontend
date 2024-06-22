@@ -1,10 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/IoD0uc3Z)
+# DeliverUs - Project
+This project has been developed by David Guillén, Javier Gutiérrez, and Javier Lozano. It corresponds to the subject "Introduction to Software Engineering and Information Systems II (IISSI 2)" within the Software Engineering program at the University of Seville.
+
 # DeliverUS - Project Requirements
 
 ## Introduction
 DeliverUS is a made-up company whose business is focused on delivering food from 3rd parties (restaurants) to customers. To this end, we are requested to develop the needed software products which hopefully will boost the company. After interviewing the product owners and some stakeholders, the general objectives and requirements have been agreed, as described in this document.
 
-Check https://github.com/IISSI2-IS-2022-2023/Deliverus-Backend-2022-2023 for full DeliverUS app requirements.
+Check https://github.com/davguifer/DeliverUs-backend for full DeliverUS app requirements.
 
 **Complete this project template of the frontend app for customers in order to fulfill customer related requirements.**
 
